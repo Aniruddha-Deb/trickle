@@ -1,0 +1,3 @@
+- didn't register
+- didn't get open message
+- didn't get chunk (ok)

@@ -1,0 +1,13 @@
+\BOOKMARK [1][-]{section.1}{Design}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Design Decisions}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Design}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Protocol}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.4}{Code Layout}{section.1}% 5
+\BOOKMARK [2][-]{subsection.1.5}{Handling Packet Drops}{section.1}% 6
+\BOOKMARK [2][-]{subsection.1.6}{Installation and Execution}{section.1}% 7
+\BOOKMARK [1][-]{section.2}{Analysis}{}% 8
+\BOOKMARK [2][-]{subsection.2.1}{RTT averages}{section.2}% 9
+\BOOKMARK [2][-]{subsection.2.2}{RTT averages across clients}{section.2}% 10
+\BOOKMARK [2][-]{subsection.2.3}{Load Benchmark}{section.2}% 11
+\BOOKMARK [2][-]{subsection.2.4}{Cache Size Benchmark}{section.2}% 12
+\BOOKMARK [2][-]{subsection.2.5}{Randomized Client Request Sequence Benchmark}{section.2}% 13
